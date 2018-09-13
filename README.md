@@ -1,2 +1,2 @@
 # Lin.gethub.io
-Lin's Blog
+I am LinWeijun hello
