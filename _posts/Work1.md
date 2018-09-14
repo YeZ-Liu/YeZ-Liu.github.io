@@ -2,11 +2,11 @@
 layout: post
 title:  "TRY"
 subtitle: 'One'
-date:   2018-09-15 01:01:13
+date: 2018-09-15
 tags: DSAA
 description: 'My DSAA HomewWork'
 color: 'rgb(154,133,255)'
-cover: ''
+cover: 'http://img1.tplm123.com/2008/10/05/37515/869534843924.jpg'
 ---
 
 # HomeWork For Lecture1
