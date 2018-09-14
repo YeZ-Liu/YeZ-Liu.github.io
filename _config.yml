@@ -17,27 +17,27 @@ author: true
 name: 'LinWeijun'
 NickName: 'Joke-R'
 webtitle: 'Blog Of Lin'
-bio: 'CS Small White'
+bio: 'A Beginner for CS≡(▔﹏▔)≡'
 about: true
-aboutyou: 'A white student in SCU'
-portraits: '/assets/profile.jpeg' # your portraits image file path
+aboutyou: ''
+portraits: '/assets/profile.jpg' # your portraits image file path
 
 # SNS
 SNS: true
 SNS-icon: #['facebook', 'weibo', 'QQ', 'github', 'Dribbble', 'twitter', 'instagram', 'weixin']
   mail: 'mailto:hello_lwj@qq.com'
-  weixin: '' # your wechat image file path
+  #weixin: '' # your wechat image file path
   QQ: 'https://user.qzone.qq.com/2311349863' # your QQ image file path
-  weibo: ''
-  instagram: ''
-  twitter: ''
+  #weibo: ''
+  #instagram: ''
+  #twitter: ''
   github: 'https://github.com/LWJ9527'
-  Dribbble: ''
-  facebook: ''
-  Google: ''
+  #Dribbble: ''
+  #facebook: ''
+  #Google: ''
   zhihu: ''
-  juejin: ''
-  twitch: ''
+  #juejin: ''
+  #twitch: ''
 
 # 分页
 paginate: 2
