@@ -14,12 +14,12 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 
 # 博主
 author: true
-name: 'your name'
-NickName: 'your nickname'
-webtitle: 'your awesome webtitle'
-bio: 'lwj awesome bio'
+name: 'LinWeijun'
+NickName: 'Joke-R'
+webtitle: 'Blog Of Lin'
+bio: 'CS Small White'
 about: true
-aboutyou: 'my name si lwj'
+aboutyou: 'A white student in SCU'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
