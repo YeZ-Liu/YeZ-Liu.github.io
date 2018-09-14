@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "TRY"
+title: 'TRY'
 subtitle: 'One'
 date: 2018-09-15
 tags: DSAA
 description: 'My DSAA HomewWork'
-color: 'rgb(154,133,255)'
+color: 'rgb(255,210,32)'
 cover: 'http://img1.tplm123.com/2008/10/05/37515/869534843924.jpg'
 ---
+> Transform your plain text into static websites and blogs.
 
 # HomeWork For Lecture1
 
