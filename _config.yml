@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: 'hello world'
-description: 'First Blog'
-keywords: 'your web keywords, another keywords'
+title: 'Joke-R ☠'
+description: 'Personal Blog'
+keywords: 'Blog Informal-Essay'
 url: 'https://LWJ9527.github.io' # your hoste
 
 # nav 中文字符空格：&emsp;
@@ -70,7 +70,7 @@ livere: true
 livere_uid: 'MTAyMC8zNDI2OS8xMDgwNg==' # MTAyMC8zNDI2OS8xMDgwNg==
 # Gitment评论 OAuth Application
 Gitment: false
-Gitment_owner: ''  # github用户名
+Gitment_owner: 'LWJ9527'  # github用户名
 Gitment_repo: ''  # github博客存放的仓库名
 client_id: ''  # 注册 OAuth Application 后获得的 client_id
 client_secret: ''  # 注册 OAuth Application 后获得的 client_secret
