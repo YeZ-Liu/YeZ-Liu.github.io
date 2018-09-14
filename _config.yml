@@ -25,13 +25,13 @@ portraits: '/assets/profile.jpeg' # your portraits image file path
 # SNS
 SNS: true
 SNS-icon: #['facebook', 'weibo', 'QQ', 'github', 'Dribbble', 'twitter', 'instagram', 'weixin']
-  mail: 'mailto:abc@gmail.com'
-  weixin: 'linweijun9527' # your wechat image file path
-  QQ: '2311349863' # your QQ image file path
+  mail: 'mailto:hello_lwj@qq.com'
+  weixin: '' # your wechat image file path
+  QQ: 'https://user.qzone.qq.com/2311349863' # your QQ image file path
   weibo: ''
   instagram: ''
   twitter: ''
-  github: 'LWJ9527'
+  github: 'https://github.com/LWJ9527'
   Dribbble: ''
   facebook: ''
   Google: ''
