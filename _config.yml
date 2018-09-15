@@ -6,18 +6,18 @@ url: 'https://LWJ9527.github.io' # your hoste
 
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
-  首页: '/'
-  标签: '/tags.html'
-  时间线: '/timeline.html'
-  关于博主: '/about.html'
-  友情链接: '/friendLink.html'
+  Home: '/'
+  Tags: '/tags.html'
+  Archives: '/timeline.html'
+  About: '/about.html'
+  Others: '/friendLink.html'
 
 # 博主
 author: true
-name: 'LinWeijun'
+name: 'Lin Weijun'
 NickName: 'Joke-R'
-webtitle: 'Blog Of Lin'
-bio: 'A Beginner for CS≡(▔﹏▔)≡'
+webtitle: 'Blog Of Joke-R'
+bio: 'A Beginner for CS≡(▔﹏▔)≡ \n SCU'
 about: true
 aboutyou: ''
 portraits: '/assets/profile.jpg' # your portraits image file path
@@ -35,7 +35,7 @@ SNS-icon: #['facebook', 'weibo', 'QQ', 'github', 'Dribbble', 'twitter', 'instagr
   #Dribbble: ''
   #facebook: ''
   #Google: ''
-  zhihu: ''
+  zhihu: 'https://www.zhihu.com/people/joker-88-62-57/activities'
   #juejin: ''
   #twitch: ''
 
