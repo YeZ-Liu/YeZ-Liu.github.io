@@ -4,7 +4,7 @@ title: 'Retro Snake'
 date: 2018-09-15
 author: Joke-R
 color: rgb(255,210,32)
-cover: './resource/start.png'
+cover: '/resource/start.png'
 tags: Game
 ---
 # **Retro-Snake**  Easyx版本 运行环境VS2017
@@ -41,15 +41,15 @@ int Deadjudge();//死亡判断
 
 - **Start**  
 
-![Start](./resource/start.png)
+![Start](/resource/start.png)
 
 - **Run**
 
-![Run](./resource/run.png)
+![Run](/resource/run.png)
 
 - **Over**
 
-![Over](./resource/over.png)
+![Over](/resource/over.png)
 
 ### 注意事项及运行说明
 
