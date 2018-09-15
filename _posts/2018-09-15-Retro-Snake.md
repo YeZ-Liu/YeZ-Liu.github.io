@@ -4,7 +4,7 @@ title: 'Retro Snake'
 date: 2018-09-15
 author: Joke-R
 color: rgb(0,255,255)
-cover: 'https://github.com/LWJ9527/LWJ9527.github.io/blob/master/_posts/resource/over.png?raw=true'
+cover: 'https://github.com/LWJ9527/Retro-Snake/blob/master/%E6%95%88%E6%9E%9C%E5%B1%95%E7%A4%BA/start.png?raw=true'
 tags: Game
 ---
 # **Retro-Snake**  Easyx版本 运行环境VS2017
