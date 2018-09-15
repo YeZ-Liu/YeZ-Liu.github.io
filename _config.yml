@@ -20,7 +20,7 @@ webtitle: 'Blog Of Joke-R'
 bio: 'Nothing is imposible'
 about: true
 aboutyou: 'A Beginner for CS ≡(▔﹏▔)≡ . A student in SCU'
-portraits: '/assets/profile.jpeg' # your portraits image file path
+portraits: './assets/profile.jpeg' # your portraits image file path
 
 # SNS
 SNS: true
