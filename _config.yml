@@ -17,7 +17,7 @@ author: true
 name: 'Lin Weijun'
 NickName: 'Joke-R'
 webtitle: 'Blog Of Joke-R'
-bio: 'A Beginner for CS≡(▔﹏▔)≡ \n SCU'
+bio: ['A Beginner for CS≡(▔﹏▔)≡ ','SCU']
 about: true
 aboutyou: ''
 portraits: '/assets/profile.jpeg' # your portraits image file path
