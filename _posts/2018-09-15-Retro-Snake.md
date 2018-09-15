@@ -41,7 +41,7 @@ int Deadjudge();//死亡判断
 
 - **Start**  
 
-![Start](../_posts/resource/start.png)
+![Start](../assets/test.png)
 
 - **Run**
 
