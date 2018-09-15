@@ -56,7 +56,7 @@ int Deadjudge();//死亡判断
 **WASD：**　来操控蛇的上下左右移动 注意打开英文输入  
 **初始界面：** 用户名及密码只是模拟 回车键确定输入  
 **EXE目录：** exe文件在debug目录下 release发布因为其优化运行出错  
-**源代码下载：** `https://github.com/LWJ9527/Retro-Snake.git`
+**源代码下载：** `https://github.com/LWJ9527/Retro-Snake.git`  
 **C控制台源代码：** `https://blog.csdn.net/qq_40953281/article/details/79315254`
 **To Be Continue...**
 > Easyx 下载地址 `https://www.easyx.cn/downloads/`  
