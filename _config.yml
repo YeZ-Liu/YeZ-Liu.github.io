@@ -8,7 +8,7 @@ url: 'https://LWJ9527.github.io' # your hoste
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
   Home: '/'
   Tags: '/tags.html'
-  Archives: '/timeline.html'
+  TimeLine: '/timeline.html'
   About: '/about.html'
   Others: '/friendLink.html'
 
