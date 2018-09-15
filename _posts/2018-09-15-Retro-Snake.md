@@ -3,7 +3,7 @@ layout: post
 title: 'Retro Snake'
 date: 2018-09-15
 author: Joke-R
-color: rgb(255,210,32)
+color: rgb(0,255,255)
 cover: 'https://github.com/LWJ9527/LWJ9527.github.io/blob/master/_posts/resource/over.png?raw=true'
 tags: Game
 ---
@@ -41,15 +41,15 @@ int Deadjudge();//死亡判断
 
 - **Start**  
 
-![Start](../assets/test.png)
+![Start](https://github.com/LWJ9527/Retro-Snake/blob/master/%E6%95%88%E6%9E%9C%E5%B1%95%E7%A4%BA/start.png?raw=true)
 
 - **Run**
 
-![Run](./resource/run.png)
+![Run](https://github.com/LWJ9527/Retro-Snake/blob/master/%E6%95%88%E6%9E%9C%E5%B1%95%E7%A4%BA/run.png?raw=true)
 
 - **Over**
 
-![Over](./resource/over.png)
+![Over](https://github.com/LWJ9527/Retro-Snake/blob/master/%E6%95%88%E6%9E%9C%E5%B1%95%E7%A4%BA/over.png?raw=true)
 
 ### 注意事项及运行说明
 
