@@ -20,7 +20,7 @@ webtitle: 'Blog Of Joke-R'
 bio: 'A Beginner for CS≡(▔﹏▔)≡ \n SCU'
 about: true
 aboutyou: ''
-portraits: '/assets/profile.jpg' # your portraits image file path
+portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
 SNS: true
