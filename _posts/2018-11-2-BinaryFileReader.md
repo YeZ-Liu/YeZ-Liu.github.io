@@ -10,4 +10,4 @@ tags: Image Tool
 
 # 简单的二进制阅读器
 
-![](C:\Users\23113\source\repos\My_Blog\_posts\resource\Binary.jpg)
+![](.\resource\Binary.jpg)
