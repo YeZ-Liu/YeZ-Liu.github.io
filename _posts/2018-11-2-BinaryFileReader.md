@@ -10,4 +10,4 @@ tags: Image Tool
 
 # 简单的二进制阅读器
 
-![](.\resource\Binary.jpg)
+![](https://github.com/Joke-Lin/Joke-Lin.github.io/blob/master/_posts/resource/Binary.jpg?raw=true)
