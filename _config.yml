@@ -17,7 +17,7 @@ author: true
 name: '隔壁的二大爷'
 NickName: 'Joke-Lin'
 webtitle: 'Blog Of Joke-Lin'
-bio: 'Nothing is imposible'
+bio: 'E m m m m m . . .'
 about: true
 aboutyou: 'A Beginner for CS ≡(▔﹏▔)≡ '
 portraits: './assets/profile.jpeg' # your portraits image file path
@@ -40,7 +40,7 @@ SNS-icon: #['facebook', 'weibo', 'QQ', 'github', 'Dribbble', 'twitter', 'instagr
   #twitch: ''
 
 # 分页
-paginate: 3
+paginate: 4
 paginatepath: ['page:num']
 
 # since
