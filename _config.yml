@@ -1,8 +1,8 @@
 # Site settings 配置站点
-title: 'Joke-R ☠'
+title: 'Joke-Lin ☠'
 description: 'Personal Blog'
 keywords: 'Blog Informal-Essay'
-url: 'https://LWJ9527.github.io' # your hoste
+url: 'https://joke-lin.github.io' # your hoste
 
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
@@ -14,9 +14,9 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 
 # 博主
 author: true
-name: 'Lin Weijun'
-NickName: 'Joke-R'
-webtitle: 'Blog Of Joke-R'
+name: '隔壁的二大爷'
+NickName: 'Joke-Lin'
+webtitle: 'Blog Of Joke-Lin'
 bio: 'Nothing is imposible'
 about: true
 aboutyou: 'A Beginner for CS ≡(▔﹏▔)≡ '
@@ -25,7 +25,7 @@ portraits: './assets/profile.jpeg' # your portraits image file path
 # SNS
 SNS: true
 SNS-icon: #['facebook', 'weibo', 'QQ', 'github', 'Dribbble', 'twitter', 'instagram', 'weixin']
-  mail: 'mailto:hello_lwj@qq.com'
+  mail: 'mailto:Joke.Lin@qq.com'
   #weixin: '' # your wechat image file path
   QQ: 'https://user.qzone.qq.com/2311349863' # your QQ image file path
   #weibo: ''
@@ -71,7 +71,7 @@ livere: true
 livere_uid: 'MTAyMC8zOTczMy8xNjI2MA==' # MTAyMC8zNDI2OS8xMDgwNg==
 # Gitment评论 OAuth Application
 Gitment: false
-Gitment_owner: 'LWJ9527'  # github用户名
+Gitment_owner: 'joke-Lin'  # github用户名
 Gitment_repo: ''  # github博客存放的仓库名
 client_id: ''  # 注册 OAuth Application 后获得的 client_id
 client_secret: ''  # 注册 OAuth Application 后获得的 client_secret
