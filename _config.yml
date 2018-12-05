@@ -9,7 +9,7 @@ subtitle: LinWEiJun's Blog
 description: Take it Easy 
 author: Joke-Lin
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: zh-Hans
+language: en
 date_format: '%Y-%m-%d'
 
 # URL
@@ -119,7 +119,7 @@ index_with_subtitle: false
 menu:
   home: /
   #categories: /categories/
-  #about: /about/
+  about: /about/
   archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
@@ -239,7 +239,7 @@ avatar: /assets/images/avatar.jpeg
 
 # Table Of Contents in the Sidebar
 toc:
-  enable: true
+  enable: false
 
   # Automatically add list number to toc.
   number: true
@@ -257,17 +257,17 @@ toc:
 
 sidebar:
   # Sidebar Position, available value: left | right
-  # position: left
-  position: right
+  position: left
+  # position: right
 
   # Sidebar Display, available value:
   #  - post    expand on posts automatically. Default.
   #  - always  expand for all pages automatically
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  Totally remove sidebar including sidebar toggle.
-  display: post
+  # display: post
   #display: always
-  #display: hide
+  display: hide
   #display: remove
 
   # Sidebar offset from top menubar in pixels.
@@ -282,10 +282,13 @@ sidebar:
 
 
 # Blog rolls
-#links_title: Links
+links_title: Links
 #links_layout: block
 #links_layout: inline
-#links:
+links:
+  jekyll: 'https://www.jekyll.com.cn/'
+  Milky Way: 'https://milky-w.github.io'
+  Lester: 'https://lestertan.ink'
   #Title: http://example.com/
 
 
@@ -374,7 +377,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: 19c36ab5eb5010d082151e7ad7e94706
 
 # Duoshuo ShortName
 #duoshuo_shortname:
@@ -432,7 +435,7 @@ changyan:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-#livere_uid: your uid
+livere_uid: MTAyMC8zOTczMy8xNjI2MA==
 
 # Support for gitalk comments system.
 gitalk:

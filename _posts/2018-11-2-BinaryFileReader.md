@@ -3,8 +3,6 @@ layout: post
 title: '简单的二进制阅读器'
 date: 2018-11-02
 author: Joke-R
-color: rgb(200,191,231)
-cover: 'https://github.com/Joke-Lin/Joke-Lin.github.io/blob/master/_posts/resource/Binary.jpg?raw=true'
 tags: Image Tool
 ---
 
@@ -13,8 +11,6 @@ tags: Image Tool
 > 在学习BMP位图的构成时，对网上的收费16进制查看器很是烦躁，notepad查看时卡到放弃人生
 >
 > 因为只是为了初步学习图片知识，以及查看2进制文件内部构成的话，可以自己实现一个
-
-
 
 ## 思路
 
