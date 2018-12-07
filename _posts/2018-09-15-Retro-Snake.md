@@ -2,7 +2,7 @@
 layout: post
 title: 'Retro Snake Easyx版本'
 date: 2018-09-15
-author: Joke-R
+author: Joke-Lin
 tags: Game
 ---
 

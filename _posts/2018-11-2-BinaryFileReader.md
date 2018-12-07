@@ -2,7 +2,7 @@
 layout: post
 title: '简单的二进制阅读器'
 date: 2018-11-02
-author: Joke-R
+author: Joke-Lin
 tags: Image Tool
 ---
 
