@@ -127,7 +127,7 @@ void Bellman_Ford(int s) // 不存在负圈的情况
                     return;
                 }
             }
-		}
+        }
     }
 }
 ```
@@ -146,7 +146,7 @@ void Bellman_Ford(int s) // 不存在负圈的情况
 
 这就衍生出了Dijkstra算法。上面两点用图来描述就是：
 
-![]((https://raw.githubusercontent.com/Joke-Lin/Joke-Lin.github.io/master/assets/ArticleImg/shortpath/shortpath2.png)
+![](https://raw.githubusercontent.com/Joke-Lin/Joke-Lin.github.io/master/assets/ArticleImg/shortpath/shortpath2.png)
 
 假设初始点为A首先AC < AB
 
@@ -225,7 +225,7 @@ void Dijkstra(int s)
                 d[e.to] = d[v]+e.cost;
                 que.push(P(d[e.to],e.to));
             }
-		}
+        }
     }
 }
 ```
