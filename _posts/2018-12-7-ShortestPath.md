@@ -2,7 +2,7 @@
 layout: post
 title: '最短路径的三种算法以及路径还原与负圈判断'
 date: 2018-12-7
-author: Joke-Lin
+author: 隔壁的二大爷
 tags: DSAA GRAPH
 ---
 

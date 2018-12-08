@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Joke-Lin
+title: Learing and Using
 subtitle: Lin WeiJun's Blog
 description: Learing and Using
-author: Joke-Lin
+author: 隔壁的二大爷
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -239,7 +239,7 @@ avatar: /assets/images/avatar.jpeg
 
 # Table Of Contents in the Sidebar
 toc:
-  enable: false
+  enable: true
 
   # Automatically add list number to toc.
   number: true
