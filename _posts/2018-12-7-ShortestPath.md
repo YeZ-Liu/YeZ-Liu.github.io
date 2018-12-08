@@ -55,7 +55,7 @@ void Bellman_Ford(int s)
                 d[temp.to] = d[temp.from] + temp.cost;
                 isUpdate = true;
             }
-		}
+        }
         if(!isUpdate) break;
     }
 }
@@ -80,7 +80,7 @@ void Bellman_Ford(int s) // 不存在负圈的情况
         {
             Edge temp = edges[i];
             d[temp.to] = min(d[temp.to],d[temp.from]+temp.cost)
-		}
+        }
     }
 }
 ```
