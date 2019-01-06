@@ -87,7 +87,8 @@
 
 
 {% if site.favicon %}
-  <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url }}?v={{ site.version }}" />
+  <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url }}" /> 
+  <!-- 删除了上行末尾：?v={{ site.version }} -->
 {% endif %}
 
 
