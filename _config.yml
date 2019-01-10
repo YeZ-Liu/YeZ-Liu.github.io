@@ -283,8 +283,8 @@ sidebar:
 
 # Blog rolls
 links_title: Links
-links_layout: block
-#links_layout: inline
+#links_layout: block
+links_layout: inline
 links:
   jekyll: 'https://www.jekyll.com.cn/'
   Milky Way: 'https://milky-w.github.io'
