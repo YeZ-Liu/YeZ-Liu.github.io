@@ -283,13 +283,13 @@ sidebar:
 
 # Blog rolls
 links_title: Links
-#links_layout: block
+links_layout: block
 #links_layout: inline
 links:
   jekyll: 'https://www.jekyll.com.cn/'
   Milky Way: 'https://milky-w.github.io'
   Lester: 'https://lestertan.ink'
-  Herixth: 'herixth.top'
+  Herixth: 'https://herixth.top'
   #Title: http://example.com/
 
 
