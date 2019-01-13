@@ -147,6 +147,6 @@ int main()
 
 > 以读取Bmp图像为例
 
-![](https://github.com/Joke-Lin/Joke-Lin.github.io/blob/master/_posts/resource/BinaryInput.jpg?raw=true)
+![](/assets/ArticleImg/2018/BinaryInput.jpg)
 
-![](https://github.com/Joke-Lin/Joke-Lin.github.io/blob/master/_posts/resource/BinaryOutput.jpg?raw=true)
+![](/assets/ArticleImg/2018/BinaryOutput.jpg)

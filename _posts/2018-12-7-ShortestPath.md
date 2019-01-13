@@ -97,7 +97,7 @@ void Bellman_Ford(int s) // 不存在负圈的情况
 
 **负权边**和**负圈**是**等价**的。如下图：也就是在A与B之间形成了一个环，这个环的权值为-2
 
-![](https://raw.githubusercontent.com/Joke-Lin/Joke-Lin.github.io/master/assets/ArticleImg/shortpath/shortpath1.png)
+![](/assets/ArticleImg/2018/shortpath1.png)
 
 所以在无向图中负边的存在也就是负圈的存在。所以Bellman主要是可以用来判断有向图中是否存在负圈。
 
@@ -146,7 +146,7 @@ void Bellman_Ford(int s) // 不存在负圈的情况
 
 这就衍生出了Dijkstra算法。上面两点用图来描述就是：
 
-![](https://raw.githubusercontent.com/Joke-Lin/Joke-Lin.github.io/master/assets/ArticleImg/shortpath/shortpath2.png)
+![](/assets/ArticleImg/2018/shortpath2.png)
 
 假设初始点为A首先AC < AB
 
