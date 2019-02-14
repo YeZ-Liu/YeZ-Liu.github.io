@@ -45,11 +45,15 @@ tags: Tool Linux
 
 ### - 配置选项
 
+在这里设置内存大小，处理器等设置，内存、处理器酌情增加，太小巨卡
+
 ![set VM](\assets\ArticleImg\2019\virtualBox_Ubuntu_3.jpg)
+
+在第二个小光盘出点击选择一个虚拟光盘文件，也就是前面下载的Ubuntu镜像文件
 
 ![set VM](\assets\ArticleImg\2019\virtualBox_Ubuntu_4.jpg)
 
-在这里设置内存大小，处理器等设置，内存、处理器酌情增加，太小巨卡
+
 
 ### - 双击开启安装
 
