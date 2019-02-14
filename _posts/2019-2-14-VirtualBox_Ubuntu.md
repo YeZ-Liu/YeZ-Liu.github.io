@@ -76,3 +76,5 @@ tags: Tool Linux
 [BIOS可能未开启虚拟化](https://jingyan.baidu.com/article/ab0b56305f2882c15afa7dda.html)
 
 一般不行就删掉重新来一遍，一般都可以 
+
+处理器最好选择2个以上，不然容易中途安装失败
