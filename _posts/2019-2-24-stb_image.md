@@ -150,6 +150,7 @@ int main()
 		stbi_flip_vertically_on_write(true);
 		stbi_write_png("out.png", w, h, n, data, 0);
 	}
+        stbi_image_free(data);
 	return 0;
 }
 ```
