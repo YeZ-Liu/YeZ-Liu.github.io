@@ -14,8 +14,6 @@ tags: ImageProcessing
 
 ![](/assets/ArticleImg/2019/ImgRotation_1.png)
 
-<img src="/assets/ArticleImg/2019/ImgRotation_1.png" width=50%></img>
-
 对于两点坐标可以这样表示：
 $$
 \begin{align}
@@ -53,6 +51,7 @@ x_0 & y_0 & 1
 $$
 
 此为顺时针旋转$\theta$ ，逆时针旋转$\theta$只需要将 $\theta=-\theta$ 即可，易得：$(x,y)\rightarrow(x_0,y_0)$
+
 $$
 \left[
 \begin{matrix}
@@ -78,6 +77,7 @@ $$
 假设原图片大小为$W,H$，旋转后所包含图片的最小矩形大小为$W^{'},H^{'}$
 
 设数字坐标系点为$(x,y)$其相应的图像坐标系点为 $(x_0,y_0)$ 有如下表达式：
+
 $$
 \left[
 \begin{matrix}
@@ -114,6 +114,7 @@ x & y & 1
 $$
 
 假设在图像坐标系中有点$(x_0,y_0)$顺时针旋转$\theta$ 到$(x,y)$处转换后大小为$W^{'},H^{'}$，转换公式有：
+
 $$
 \left[
 \begin{matrix}
