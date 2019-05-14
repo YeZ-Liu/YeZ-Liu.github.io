@@ -12,7 +12,7 @@ tags: ImageProcessing
 
 如下图，推导点$(x_0,y_0) $旋转$\theta $到到点$(x,y)$，半径为R
 
-<img src="\assets\ArticleImg\2019\ImgRotation_1.png" width=50%></img>
+<img src="/assets/ArticleImg/2019/ImgRotation_1.png" width=50%></img>
 
 对于两点坐标可以这样表示：
 $$
@@ -36,8 +36,7 @@ $$
 \left[
 \begin{matrix}
 x & y & 1
-\end{matrix} \right]
-=
+\end{matrix} \right]=
 \left[
 \begin{matrix}
 x_0 & y_0 & 1
@@ -56,8 +55,7 @@ $$
 \left[
 \begin{matrix}
 x_0 & y_0 & 1
-\end{matrix} \right]
-=
+\end{matrix} \right]=
 \left[
 \begin{matrix}
 x & y & 1
@@ -82,8 +80,7 @@ $$
 \left[
 \begin{matrix}
 x & y & 1
-\end{matrix} \right] 
-=
+\end{matrix} \right]=
 \left[
 \begin{matrix}
 x_0 & y_0 & 1
@@ -99,8 +96,7 @@ x_0 & y_0 & 1
 \left[
 \begin{matrix}
 x_0 & y_0 & 1
-\end{matrix} \right] 
-=
+\end{matrix} \right]=
 \left[
 \begin{matrix}
 x & y & 1
@@ -120,8 +116,7 @@ $$
 \begin{matrix}
 x & y & 1
 \end{matrix}
-\right]
-=
+\right]=
 \left[
 \begin{matrix}
 x_0 & y_0 & 1
@@ -156,8 +151,7 @@ $$
 \begin{matrix}
 x_0 & y_0 & 1
 \end{matrix}
-\right]
-=
+\right]=
 \left[
 \begin{matrix}
 x & y & 1
