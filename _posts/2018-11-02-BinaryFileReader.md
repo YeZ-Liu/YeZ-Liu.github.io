@@ -1,9 +1,9 @@
----
+﻿---
 layout: post
 title: '简单的二进制阅读器'
 date: 2018-11-02
 author: 隔壁的二大爷
-tags: Image Tool
+tags: ImageProcessing Tool
 ---
 
 # 简单的二进制阅读器(或者说16进制查看器)
