@@ -15,6 +15,7 @@ tags: ImageProcessing
 ![](/assets/ArticleImg/2019/ImgRotation_1.png)
 
 对于两点坐标可以这样表示：
+
 $$
 \begin{align}
 x_0 =& R*\cos\alpha \\
@@ -95,6 +96,7 @@ x_0 & y_0 & 1
 -0.5W & 0.5H & 1
 \end{matrix} \right]
 $$
+
 $$
 \left[
 \begin{matrix}
